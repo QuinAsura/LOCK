@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( DilationErosion )
+find_package( OpenCV REQUIRED )
+add_executable( DilationErosion DilationErosion.cpp )
+target_link_libraries( DilationErosion ${OpenCV_LIBS} )

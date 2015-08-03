@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( PathPlanning )
+find_package( OpenCV REQUIRED )
+add_executable( PathPlanning PathPlanning.cpp )
+target_link_libraries( PathPlanning ${OpenCV_LIBS} )
