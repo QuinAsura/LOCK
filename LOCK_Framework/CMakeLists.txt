@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( LOCK )
+SET(MY_SERIAL -lserial)
+find_package( OpenCV REQUIRED )
+add_executable( LOCK LOCK.cpp )
+target_link_libraries( first ${OpenCV_LIBS} ${MY_SERIAL})
