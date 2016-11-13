@@ -1,6 +1,11 @@
 # LOCK
 Localization, Obstacle avoidance , Control and Kinematics framework for differential steering systems.
 
+# Competition Runs
+[![DEMO Video](http://img.youtube.com/vi/KyFhYlVsC_k/0.jpg)](http://www.youtube.com/watch?v=KyFhYlVsC_k)
+
+[![DEMO Video](http://img.youtube.com/vi/bM3tn3CD7cA/0.jpg)](http://www.youtube.com/watch?v=bM3tn3CD7cA)
+
 [![DEMO Video](http://img.youtube.com/vi/1ySnonQtAqg/0.jpg)](http://www.youtube.com/watch?v=1ySnonQtAqg)
 
 # Introduction
