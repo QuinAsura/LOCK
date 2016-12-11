@@ -9,10 +9,12 @@ Localization, Obstacle avoidance , Control and Kinematics framework for differen
 * Uses A* for Path Planning with Erosion/Dilation to provide the bot with sufficient cleareance from obstacles.
 * Controls written specifically for differential steering systems.
 
-## Sample Track
-![Sample Track](https://raw.githubusercontent.com/quinasura/LOCK/Localization/master/Example.jpg)
+## Sample Tracks with different rules:
+![Track at NIT Pragyan](https://raw.githubusercontent.com/quinasura/LOCK/master/Localization/Example.jpg)
+![Track at Kurukshetra](https://raw.githubusercontent.com/quinasura/LOCK/master/AI-path_planning/Dilation_Erosion/frame_screenshot_31.01.2015.png)
 
-Disclaimer: This is code developed specifically for competition and are certain to contain idiosyncrasies.
+Disclaimer: This is code developed specifically for competition and are certain to contain idiosyncrasies but it won in all
+the competitions it participated (2015-2016) :)
 
 # Competition Runs
 [![DEMO Video](http://img.youtube.com/vi/KyFhYlVsC_k/0.jpg)](http://www.youtube.com/watch?v=KyFhYlVsC_k)
